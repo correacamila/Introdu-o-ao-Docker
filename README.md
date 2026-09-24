@@ -209,7 +209,7 @@ Também foi utilizado o navegador para acessar a aplicação pela porta **5000**
 
 ---
 
-# ✨ Expansão da aplicação
+# ✨ Expansão da aplicação - Desafio
 
 Como parte da expansão da atividade, a aplicação foi modificada para possuir novas páginas e uma apresentação visual mais organizada.
 
