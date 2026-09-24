@@ -328,7 +328,7 @@ O projeto passou pelas seguintes etapas:
 
 # 👥 Integrantes
 
-### Camila e Arthur
+### Camila Corrêa dos Santos e Arthur Campos de Oliveira Barbosa
 
 🎓 **Turma:** 2° Informática
 
